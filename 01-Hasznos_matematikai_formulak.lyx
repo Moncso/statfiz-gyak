@@ -2252,7 +2252,7 @@ Ha egy több részrendszerből álló rendszeren végzünk méréseket akkor sok
 ahol 
 \begin_inset Formula 
 \begin{equation}
-\text{Tr}_{2}\left[\hat{A}\otimes\hat{B}\right]=\text{Tr}\left[\hat{B}\right]\hat{A},\ \text{Tr}_{2}\left[\hat{A}\otimes\hat{B}\right]=\text{Tr}\left[\hat{A}\right]\hat{B}.
+\text{Tr}_{2}\left[\hat{A}\otimes\hat{B}\right]=\text{Tr}\left[\hat{B}\right]\hat{A},\ \text{Tr}_{1}\left[\hat{A}\otimes\hat{B}\right]=\text{Tr}\left[\hat{A}\right]\hat{B}.
 \end{equation}
 
 \end_inset
